@@ -6,6 +6,12 @@ I enjoy coding and finding new and interesting way to combine my other interests
 
 I also love participating in Hackathons 💻 and getting to meet new people 🤙
 
+#### I'm working on:
+
+🔭 Research: Generating Music using LSTM Neural Networks
+
+👯 Clubs: Association for Computing Machinery, Artifical Intelligence Society
+
 **REMEMBER: You are all better than you think you are, you are just designed not to believe it when you hear it from yourself. ❤️**
 
 <!--
