@@ -1,4 +1,4 @@
-### Hi! I'm Viswajith Rajagopalan 👋
+### Hi! I'm Viswajith Rajagopalan 👋🏽
 
 I'm currently studying Computer Science at the University of Texas at Dallas ☄️
 
