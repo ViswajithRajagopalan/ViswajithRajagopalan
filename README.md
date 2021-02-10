@@ -12,7 +12,7 @@ I also love participating in Hackathons 💻 and getting to meet new people 🤙
 
 👯 Clubs: Association for Computing Machinery, Artifical Intelligence Society
 
-**REMEMBER: You are all better than you think you are, you are just designed not to believe it when you hear it from yourself. ❤️**
+**You are all better than you think you are, you are just designed not to believe it when you hear it from yourself. ❤️**
 
 <!--
 **ViswajithRajagopalan/ViswajithRajagopalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
