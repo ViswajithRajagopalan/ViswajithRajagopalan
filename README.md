@@ -10,7 +10,7 @@ I also love participating in Hackathons 💻 and getting to meet new people 🤙
 
 🔭 Research: Generating Music using LSTM Neural Networks
 
-👯 Clubs: Association for Computing Machinery, Artifical Intelligence Society
+👯 Clubs: Association for Computing Machinery, Artificial Intelligence Society
 
 **You are all better than you think you are, you are just designed not to believe it when you hear it from yourself. **
 
